@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<derevations>
+  <derevation>
+    <name>اسم الفاعل</name>
+    <peising>فَاْعِلْ</peising>
+    <extras>
+      <extra>
+        <name>ا</name>
+        <position>2</position>
+      </extra>
+      <extra>
+        <name> ِ</name>
+        <position>5</position>
+      </extra>
+    </extras>
+   </derevation>
+ <derevation>
+    <name>اسم المفعول</name>
+   <peising>مَفْعُوْلْ</peising>
+   <extras>
+     <extra>
+       <name>م</name>
+       <position>0</position>
+     </extra>
+     <extra>
+       <name> َ</name>
+       <position>1</position>
+     </extra>
+     <extra>
+       <name>و</name>
+       <position>6</position>
+     </extra>
+   </extras>
+  </derevation>
+ <derevation>
+    <name>اسم المكان</name>
+    <peising>مَفْعَلْ</peising>
+   <extras>
+     <extra>
+       <name>م</name>
+       <position>0</position>
+     </extra>
+     <extra>
+       <name> َ</name>
+       <position>1</position>
+     </extra>
+     <extra>
+       <name> ْ</name>
+       <position>3</position>
+     </extra>
+   </extras>
+  </derevation>
+</derevations>

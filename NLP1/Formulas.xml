@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Formulas>
+  <Formula>
+    <name>الصيغة الأولى</name>
+    <noOfElement>3</noOfElement>
+    <peising1>فعل</peising1>
+    <peising2>فاعل</peising2>
+    <peising3>مفعول به</peising3>
+  </Formula>
+  <Formula>
+    <name>الصيغة الثانية</name>
+    <noOfElement>3</noOfElement>
+    <peising1>فعل</peising1>
+    <peising2>فاعل</peising2>
+    <peising3>حرف جر</peising3>
+    <peising4>مجرور</peising4>
+  </Formula>
+  <Formula>
+    <name>الصيغة الثالثة</name>
+    <noOfElement>2</noOfElement>
+    <peising1>مبتدأ</peising1>
+    <peising2>خبر</peising2>
+  </Formula>
+  <Formula>
+    <name>الصيغة الرابعة</name>
+    <noOfElement>4</noOfElement>
+    <peising1>فعل</peising1>
+    <peising2>فاعل</peising2>
+    <peising3>ظرف</peising3>
+    <peising4>مضاف إليه</peising4>
+  </Formula>
+  <Formula>
+    <name>الصيغة الخامسة</name>
+    <noOfElement>2</noOfElement>
+    <peising1>مبتدأ</peising1>
+    <peising2>فعل</peising2>
+  </Formula>
+</Formulas>
